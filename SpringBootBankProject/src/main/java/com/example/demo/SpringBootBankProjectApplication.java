@@ -10,4 +10,5 @@ public class SpringBootBankProjectApplication {
 		SpringApplication.run(SpringBootBankProjectApplication.class, args);
 	}
 sYstem.out.println("abcd");
+	sYstem.out.println("fghghghg");
 }
